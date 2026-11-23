@@ -1,42 +1,30 @@
 # RetroAGES
 
-**RetroAGES** é um emulador independente de **Sega Master System** e **Mega Drive / Genesis**. Este repositório apresenta o emulador e suas versões para download; o código-fonte não é distribuído aqui.
+[English](README.md) · [Português (Brasil)](README.pt-BR.md)
 
-[**Jogar no navegador ou baixar para Windows no itch.io**](https://cwbdado.itch.io/retroages) · [**Downloads no GitHub**](https://github.com/cwbdado/RetroAGES/releases) · [Ko-fi](https://ko-fi.com/cwbdado)
+**RetroAGES** is an independent emulator for the **Sega Master System** and **Mega Drive / Genesis**. This repository focuses on the emulator and its releases; source code is not distributed here.
 
-## Sistemas e versões
+[**Play in your browser or download for Windows on itch.io**](https://cwbdado.itch.io/retroages) · [**GitHub releases**](https://github.com/cwbdado/RetroAGES/releases) · [Ko-fi](https://ko-fi.com/cwbdado)
 
-- **RetroAGES 0.3.2 — Windows x64:** Master System e Mega Drive / Genesis.
-- **RetroAGES 0.2.2-alpha.3:** edição anterior focada em Master System.
-- **Edição para navegador:** disponível na página do itch.io.
+## Systems and releases
 
-As versões anteriores permanecem disponíveis para quem precisa delas. As páginas de distribuição trazem as informações específicas de cada versão e de seus conteúdos extras.
-
-## Recursos
-
-- Biblioteca de jogos com fichas editáveis, capas, capturas de tela e favoritos.
-- Controles configuráveis para dois jogadores e predefinições para gamepads.
-- Interface em português e inglês.
-- Estados salvos, com atalhos para salvar e carregar rapidamente (**F5** e **F8** no Windows).
-
-## Como começar
-
-1. Baixe a versão desejada na página do [itch.io](https://cwbdado.itch.io/retroages).
-2. No Windows, instale e abra o RetroAGES.
-3. Carregue um arquivo de jogo compatível ou selecione sua pasta de cartuchos na biblioteca.
-
-O RetroAGES não inclui jogos comerciais nem arquivos de BIOS. Use cópias de jogos que você tenha direito de utilizar.
-
-## English
-
-**RetroAGES** is an independent emulator for the **Sega Master System** and **Mega Drive / Genesis**. This repository presents the emulator and its downloadable releases; source code is not distributed here.
-
-[**Play in your browser or download for Windows on itch.io**](https://cwbdado.itch.io/retroages) · [**GitHub downloads**](https://github.com/cwbdado/RetroAGES/releases) · [Ko-fi](https://ko-fi.com/cwbdado)
-
-- **RetroAGES 0.3.2 — Windows x64:** Master System and Mega Drive / Genesis.
-- **RetroAGES 0.2.2-alpha.3:** earlier Master System-focused edition.
+- **RetroAGES 0.3.2 — Windows x64:** supports Master System and Mega Drive / Genesis.
+- **RetroAGES 0.2.2-alpha.3:** an earlier edition focused on Master System.
 - **Browser edition:** available on itch.io.
 
-RetroAGES includes an editable game library with covers and screenshots, configurable two-player controls, gamepad presets, Portuguese and English interface options, and save states. On Windows, quick save and load use **F5** and **F8**.
+Previous releases remain available. The download pages include version-specific notes and optional content details.
 
-RetroAGES does not include commercial games or BIOS files. Please use game copies you are entitled to use.
+## Features
+
+- Game library with editable game records, cover art, screenshots, and favorites.
+- Configurable controls for two players and gamepad presets.
+- Portuguese and English interface.
+- Save states, with quick save and load shortcuts (**F5** and **F8** on Windows).
+
+## Getting started
+
+1. Download the Windows edition or open the browser edition from the [itch.io page](https://cwbdado.itch.io/retroages).
+2. In the Windows app, open a compatible game file or choose a cartridge folder in the library.
+3. Configure your controls and start playing.
+
+RetroAGES does not include commercial games or BIOS files. Use game copies you are legally entitled to use.
