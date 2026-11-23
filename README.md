@@ -8,8 +8,8 @@
 
 ## Systems and releases
 
-- **RetroAGES 0.3.2 — Windows x64:** supports Master System and Mega Drive / Genesis.
-- **RetroAGES 0.2.2-alpha.3:** an earlier edition focused on Master System.
+- **RetroAGES 0.3.0 — Windows x64:** the GitHub release supports Master System and Mega Drive / Genesis.
+- **RetroAGES 0.2.2-alpha.3 — Windows x64:** an earlier edition focused on Master System.
 - **Browser edition:** available on itch.io.
 
 Previous releases remain available. The download pages include version-specific notes and optional content details.
